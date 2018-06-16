@@ -2,12 +2,12 @@
 
 ## Categories
 
-[ReadingNotes](https://)
+[ReadingNotes：讀書筆記](https://)
 
 [CTF](https://)
 
-[]
+[OJ：程式競賽解題](https://)
 
-[Misc](https://pineappleinncu.github.io/PineApple-sPage/Misc)
+[Misc：雜物](https://pineappleinncu.github.io/PineApple-sPage/Misc)
 
 
