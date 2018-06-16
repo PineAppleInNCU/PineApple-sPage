@@ -4,6 +4,10 @@
 
 [ReadingNotes](https://)
 
-[Misc](https://)
+[CTF](https://)
+
+[]
+
+[Misc](https://pineappleinncu.github.io/PineApple-sPage/Misc)
 
 
