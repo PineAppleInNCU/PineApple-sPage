@@ -2,7 +2,7 @@
 
 ## Categories
 
-[ReadingNotes：讀書筆記](https://)
+[ReadingNotes：讀書筆記](https://pineappleinncu.github.io/PineApple-sPage/ReadingNotes)
 
 [CTF：CTF](https://)
 
