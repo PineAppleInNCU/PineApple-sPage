@@ -12,9 +12,9 @@
 
 [ReadingNotes：讀書筆記](https://pineappleinncu.github.io/PineApple-sPage/ReadingNotes)
 
-[CTF：CTF](https://)
+[CTF：CTF](https://pineappleinncu.github.io/PineApple-sPage/CTF)
 
-[OJ：程式競賽解題](https://)
+[OJ：程式競賽解題](https://pineappleinncu.github.io/PineApple-sPage/OJ)
 
 [Misc：雜物](https://pineappleinncu.github.io/PineApple-sPage/Misc)
 
