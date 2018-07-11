@@ -8,7 +8,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/建興-吳-71baa5164/)
 
-[Email](fdgkhdkgh@gmail.com)
+Email:fdgkhdkgh@gmail.com
 
 ## Categories
 
